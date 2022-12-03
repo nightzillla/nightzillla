@@ -1,5 +1,5 @@
 # Hi there :wave:
-<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/ramBbsu5kGc8AJHd1h" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/anime-pixel-fighting-ramBbsu5kGc8AJHd1h">via GIPHY</a></p>
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/view/jujutsu-kaisen-gif-18755062))
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
