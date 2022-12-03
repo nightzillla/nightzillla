@@ -1,5 +1,5 @@
 # Hi there :wave:
-![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+![Alt Text](https://www.deviantart.com/valenberg/art/Rolly-Rocket-601618597)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
