@@ -1,5 +1,5 @@
 # Hi there :wave:
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/view/jujutsu-kaisen-gif-18755062))
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
