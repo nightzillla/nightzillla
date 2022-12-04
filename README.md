@@ -3,5 +3,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://www.linkedin.com/in/danny-nguyen-nightzillla/" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://www.linkedin.com/in/danny-nguyen-nightzillla/" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
 
