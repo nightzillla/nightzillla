@@ -1,7 +1,5 @@
 <p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+my+name+is+Danny!;and+I+am+a+Software+Developer!;Thank+you+for+stopping+by+:3)](https://git.io/typing-svg)
-</p>
-<p>
 ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
 </p>
 
