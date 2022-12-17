@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+my+name+is+Danny!;and+I+am+a+Software+Developer!;Thank+you+for+stopping+by+:3)](https://git.io/typing-svg)
-![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+<!-- This is the blue guy typing -->
+<!-- ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif) -->
 ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!--  ![Alt Text](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy-downsized.gif)
  -->
