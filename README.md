@@ -3,7 +3,7 @@
 <!-- This is the blue guy typing -->
 ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
 <!-- This is the chicken typing -->
-![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<!-- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
 <!--  ![Alt Text](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy-downsized.gif)
  -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
