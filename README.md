@@ -7,7 +7,7 @@
 <!-- Ninja Turtle  -->
 ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
 <!-- Chicken typing -->
-<!--![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) 
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
