@@ -6,6 +6,8 @@
 <!-- ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) -->
 <!-- Ninja Turtle  -->
 ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
+<!-- Pinky -->
+https://giphy.com/gifs/90s-typing-pinky-and-the-brain-hwvxuIKLEayDS
 <!-- Chicken typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
 <!-- GITHUB STREAKS-->
