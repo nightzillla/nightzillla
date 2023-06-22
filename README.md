@@ -1,4 +1,3 @@
-haha 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings,+my+name+is+Danny!;and+I+am+a+Software+Developer!;Thank+you+for+stopping+by+:3)](https://git.io/typing-svg)
 <!-- This is the blue guy typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif) -->
@@ -7,7 +6,8 @@ haha
 <!-- Ninja Turtle  -->
 ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
 <!-- Pinky -->
-![Alt Text](https://giphy.com/gifs/90s-typing-pinky-and-the-brain-hwvxuIKLEayDS)
+![Alt Text](https://github.com/nightzillla/nightzillla/assets/81122802/58fe6c24-2cab-4ad4-b290-e6e604590330)
+)
 <!-- Chicken typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
 <!-- GITHUB STREAKS-->
