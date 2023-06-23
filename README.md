@@ -5,9 +5,7 @@
 <!-- ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) -->
 <!-- Ninja Turtle  -->
 ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
-<!-- Pinky -->
-![Alt Text](https://github.com/nightzillla/nightzillla/assets/81122802/58fe6c24-2cab-4ad4-b290-e6e604590330)
-)
+
 <!-- Chicken typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
 <!-- GITHUB STREAKS-->
