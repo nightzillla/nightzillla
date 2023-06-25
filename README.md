@@ -12,7 +12,6 @@
 ![Alt Text](https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA)
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 Languages & Technology<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
