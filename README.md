@@ -8,8 +8,6 @@
 
 <!-- Chicken typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
-<!-- Dog typing -->
-![Alt Text](https://giphy.com/gifs/dog-shiba-inu-typing-mCRJDo24UvJMA)
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
