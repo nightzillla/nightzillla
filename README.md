@@ -10,7 +10,7 @@
 <!-- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 Languages & Technology<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
