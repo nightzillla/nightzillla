@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Testing+to+see+if+this+works)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Greetings,+my+name+is+Danny!;and+I+am+a+Software+Developer!;Thank+you+for+stopping+by+:3)](https://git.io/typing-svg)
 <!-- This is the blue guy typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif) -->
