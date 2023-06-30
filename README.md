@@ -3,12 +3,9 @@
 <!-- This is the blue guy typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif) -->
 <!-- Anime -->
-<!-- ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) -->
+ ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) 
 <!-- Ninja Turtle  -->
 ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
-
-<!-- Chicken typing -->
-<!-- ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
