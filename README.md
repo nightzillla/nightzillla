@@ -3,7 +3,7 @@
 <!-- This is the blue guy typing -->
 <!-- ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif) -->
 <!-- Anime -->
- ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) 
+<!-- ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) 
 <!-- Ninja Turtle  -->
 ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
 <!-- GITHUB STREAKS-->
