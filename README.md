@@ -5,7 +5,8 @@
 <!-- Anime -->
 <!-- ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) 
 <!-- Ninja Turtle  -->
-![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
+<!-- ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif) -->
+<!-- ELMO -->
 ![Alt Text](https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif)
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
