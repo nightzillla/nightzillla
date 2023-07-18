@@ -6,8 +6,7 @@
 <!-- ![Alt Text](https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif) 
 <!-- Ninja Turtle  -->
 ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif)
-![Alt Text](![image](https://github.com/nightzillla/nightzillla/assets/81122802/88764106-f3bf-4996-a742-9e7222391dfe)
-)
+![Alt Text](https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif)
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
