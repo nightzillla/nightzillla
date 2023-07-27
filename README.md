@@ -6,7 +6,7 @@
 <!-- Ninja Turtle  -->
 <!-- ![Alt Text](https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif) -->
 <!-- ELMO -->
-![Alt Text](https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif)
+<!-- ![Alt Text](https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif)
 <!-- Fire -->
 
 <!-- GITHUB STREAKS-->
