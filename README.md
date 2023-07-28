@@ -8,6 +8,8 @@
 <!-- ELMO -->
 <!-- ![Alt Text](https://media.giphy.com/media/P7JmDW7IkB7TW/giphy.gif)
 <!-- Fire -->
+![Alt Text](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
+
 
 <!-- GITHUB STREAKS-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=nightzillla&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
